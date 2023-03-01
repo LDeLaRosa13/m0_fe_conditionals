@@ -1,8 +1,7 @@
 # Self Evaluation
-
-1. How confident do you feel in your understanding and fluency with the comparison operators?
-1. How confident do you feel in your understanding and fluency with the logical operators?
-1. How confident do you feel in your understanding and fluency with the if statements?
-1. How much time did you spend on this lesson/topic? How did that line up with your time estimate?
-1. What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-1. What questions do you still have? How will you get the answers you need?
+1. How confident do you feel in your understanding and fluency with the comparison operators? I currently feel okay about them but wouldn't feel confident without a cheat sheet
+1. How confident do you feel in your understanding and fluency with the logical operators? I feel okay here but will definitely need more practice and repetition.
+1. How confident do you feel in your understanding and fluency with the if statements? These are what I currently feel the most confident with, I'd say 6/10
+1. How much time did you spend on this lesson/topic? How did that line up with your time estimate? I've spent more time on this than any other lesson so far. It took way longer than I anticipated.
+1. What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? I still need to practice everything. I need to heavily review github and the lesson from today. I will note everything that i struggle with and spend time reviewing over the next few weeks before Mod 1.
+1. What questions do you still have? How will you get the answers you need? I don't have any specific questions at this time but when I do have things come up, my group has been amazing at helping each other out. They will be my first stop!
