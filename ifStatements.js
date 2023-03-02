@@ -45,13 +45,15 @@
   // Experiment with manipulating the value held within numQuarters
   // to make sure both conditions can be achieved.
   
-  var numQuarters = 3
+  var numQuarters = 1
   
-  console.log("I have enough money for a gumball");
-  console.log("I don't have enough money for a gumball");
+  
   if (numQuarters >= 2) {
     console.log("I have enough money to buy a gumball");
-    }
+    
+  } else {
+    console.log("I dont have enough to buy a gumball");
+  }
   
   // #####################
   // Using the variables defined below, write code that will tell you
